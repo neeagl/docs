@@ -3,8 +3,8 @@
   "name": "Insighto.ai Docs",
   "openapi":"https://api.insighto.ai/api/v1/openapi.json",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "https://insighto.ai/wp-content/uploads/2024/01/Insighto.AI-Logo-Blue-Bold.png",
+    "light": "https://insighto.ai/wp-content/uploads/2024/01/Insighto.AI-Logo-Blue-Bold.png"
   },
   "favicon": "/favicon.svg",
   "colors": {
@@ -19,7 +19,7 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:support@insighto.ai"
     }
   ],
   "topbarCtaButton": {
